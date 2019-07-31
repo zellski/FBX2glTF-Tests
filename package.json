@@ -25,7 +25,7 @@
     "prepare": "tsc"
   },
   "dependencies": {
-    "fbx2gltf": "file:../fbx2gltf",
+    "fbx2gltf": "0.9.6",
     "gltf-validator": "^2.0.0-dev.2.7",
     "tmp": "^0.0.33"
   },

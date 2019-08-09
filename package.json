@@ -27,6 +27,7 @@
   "dependencies": {
     "fbx2gltf": "0.9.6",
     "gltf-validator": "^2.0.0-dev.2.7",
+    "md5": "^2.2.1",
     "mem": "^5.1.1",
     "tmp": "^0.0.33"
   },

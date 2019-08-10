@@ -25,7 +25,7 @@
     "prepare": "tsc"
   },
   "dependencies": {
-    "fbx2gltf": "0.9.6",
+    "fbx2gltf": "latest",
     "gltf-validator": "^2.0.0-dev.2.7",
     "md5": "^2.2.1",
     "mem": "^5.1.1",

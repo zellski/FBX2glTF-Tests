@@ -201,7 +201,7 @@ execa@^0.7.0:
     signal-exit "^3.0.0"
     strip-eof "^1.0.0"
 
-fbx2gltf@0.9.6:
+fbx2gltf@latest:
   version "0.9.6"
   resolved "https://registry.yarnpkg.com/fbx2gltf/-/fbx2gltf-0.9.6.tgz#54d71a6403b0cd07892e686d95f083b2e9cd3712"
   integrity sha512-KMdUMj5qO6zmzw3xH2SBYLjUk60q5HIDRm6jFCEjgVtN7hl+KjBi+QBAx6ATT+nQZRQL7QonYRci0zirOmerfg==
